@@ -1,2 +1,39 @@
-
+body{
+    margin: 30px;
+    color:rgb(0, 0, 0);
+    }
+    .custom-container{
+    width: 600px;
+    border: 5px solid rgb(4, 255, 4);
+    background-color: rgb(41, 0, 0);
+    }
+    
+    .custom-row{
+    border: 5px solid rgb(255, 188, 188);
+    height: 200px;
+    }
+    .cust-col{
+    border: 2px dotted rgb(38, 38, 43);
+    }
+    .rr1c1{
+    background-color: teal;
+    }
+    .rr1c2{
+    background-color: thistle;
+    }
+    .rr2c1{
+    background-color:tomato;
+    }
+    .rr2c2{
+    background-color:turquoise
+    }
+    .rr2c3 {
+        background-color: rgb(82, 11, 11);
+    }
+    .rr3c1{
+    background-color:violet
+    }
+    .rr3c2{
+    background-color: yellowgreen;
+    }
 /* Your CSS Code here. */
